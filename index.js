@@ -3,8 +3,8 @@ var app = express();
 var ha = require('homeaway-api')
 
 // TODO: insert your clientId and secret here
-var clientId = "00000000-0000-0000-0000-000000000000";
-var clientSecret = "00000000-0000-0000-0000-000000000000";
+var clientId = "22b224f9-2259-4912-9d94-c6e15efe37b3";
+var clientSecret = "5f0dc000-7e53-4df6-bcbc-066a35ae073a";
 
 // utility method to handle JSON response body
 function handleJsonBody(response, withResponseBody) {
